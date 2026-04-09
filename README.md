@@ -1,2 +1,3 @@
-# RePlastix-Innovations
-RePlastix Innovations source code
+# EcoCycle Platform
+
+TODO: Document your project here
